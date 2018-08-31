@@ -3,7 +3,7 @@ Projects on Machine Learning
 1. Digit Recogniser
 
 
-####Digit Recogniser
+#### Digit Recogniser
 
 - What it does?
   Sample data has been downloaded from Kaggle, which is pixel values of images of hand-written numbers.
