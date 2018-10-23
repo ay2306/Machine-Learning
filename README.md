@@ -1,4 +1,5 @@
-## Machine-Learning repository
+## Machine-Learning repository  :fire:
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/ay2306)  &nbsp;&nbsp;
 Projects on Machine Learning
 1. Digit Recogniser
 
